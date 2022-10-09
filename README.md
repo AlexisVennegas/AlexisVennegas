@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, Im Alexis Venegas
 A passionate frontend developer from México 🇲🇽
 
 
