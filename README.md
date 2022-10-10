@@ -1,5 +1,5 @@
 # 💫 Hi, I´m Alexis Venegas
-A passionate frontend developer from México 🇲🇽
+Apassionate frontend developer from México 🇲🇽
 
 
 ## 🌐 Socials:
