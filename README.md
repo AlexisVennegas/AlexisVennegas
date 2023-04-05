@@ -1,5 +1,5 @@
 # 💫 Hi, I´m Alexis Venegas
-A passionate mexican for Full Stack developer.
+A passionate for Full Stack developer.
 
 
 ## 🌐 Socials:
