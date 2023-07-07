@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Venegas</h1>
-<h3 align="center">A passionate for Full Stack developer. || Student at 42madrid </h3>
+<h3 align="center">A passionate for Full Stack developer. || Student at  <a href="https://www.42madrid.com/" align="center">42Madrid</a> </h3>
 
 <h1 align="center">42 Cursus progress</h1>
 
