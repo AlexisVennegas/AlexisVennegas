@@ -30,7 +30,7 @@
   <!-- Resto de las filas -->
 </table>
 
-  <h1 align="center"> Information s</h1>
+  <h1 align="center"> About </h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
