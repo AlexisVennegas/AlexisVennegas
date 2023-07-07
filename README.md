@@ -2,7 +2,6 @@
 <h3 align="center">A passionate for Full Stack developer. || Student at 42madrid </h3>
 
   <h1>42 Cursus progress
-   <a href="https://www.42madrid.com/" align="center">42Madrid </a>
   </h1>
 
 
