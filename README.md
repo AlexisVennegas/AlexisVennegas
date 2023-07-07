@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexis Venegas</h1>
 <h3 align="center">A passionate for Full Stack developer. || Student at 42madrid </h3>
 
-<h1>42 Cursus progress</h1>
- <a href="https://www.42madrid.com/" align="center">
 
+ <a href="https://www.42madrid.com/" align="center">
+  <h1>42 Cursus progress</h1>
+ </a>
 [![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64)](https://github.com/AlexisVennegas)
 
 
