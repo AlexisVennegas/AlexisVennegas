@@ -5,6 +5,7 @@
  <a href="https://www.42madrid.com/" align="center">
   <h1>42 Cursus progress</h1>
  </a>
+ 
 [![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64)](https://github.com/AlexisVennegas)
 
 
