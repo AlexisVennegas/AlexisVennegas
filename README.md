@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis Venegas</h1>
 <h3 align="center">A passionate for Full Stack developer. || Student at 42madrid </h3>
 
-  <h1 align="center">42 Cursus progress</h1>
+<h1 align="center">42 Cursus progress</h1>
 
 [![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64)](https://github.com/AlexisVennegas)
 
@@ -10,6 +10,7 @@
 | Level | Project name | Mark |
 |:-----:|:-------------|:----:|
 | **0**  | [Piscine](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/piscine) | [![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
 | **1** A | [Libft](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 Libft Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3017676)](https://github.com/JaeSeoKim/badge42)
 | **2** B | [get_next_line](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3052668)](https://github.com/JaeSeoKim/badge42)
 | **3** B | [ft_printf](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3066239)](https://github.com/JaeSeoKim/badge42)
@@ -19,7 +20,8 @@
 | **5** C | [So Long](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
 | **5** D | [Exam Rank 02](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
 
-  <h1 align="center"> About </h1>
+  
+<h1 align="center"> About </h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
