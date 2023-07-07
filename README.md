@@ -4,8 +4,11 @@
   <h1>42 Cursus progress
   </h1>
 
-
-[![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64)](https://github.com/AlexisVennegas)
+<p align="center">
+  <a href="https://github.com/AlexisVennegas">
+    <img src="https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64" alt="avenegas's 42 stats" />
+  </a>
+</p>
 
 
 <h2>Current project</h2>
