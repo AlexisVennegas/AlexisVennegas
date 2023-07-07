@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexis Venegas</h1>
-<h3 align="center">A passionate for Full Stack developer.</h3>
+<h3 align="center">A passionate for Full Stack developer. || student at 42madrid </h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=alexisvennegas" alt="alexisvennegas" />
   </a>
 </p>
