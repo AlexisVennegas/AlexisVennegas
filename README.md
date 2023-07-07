@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexis Venegas</h1>
 <h3 align="center">A passionate for Full Stack developer. || Student at 42madrid </h3>
 
-<h1>42 Cursus progress in [42Madrid](https://www.42madrid.com/)</h1>
+<h1>42 Cursus progress</h1>
+ <a href="https://www.42madrid.com/" align="center">
 
 [![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64)](https://github.com/AlexisVennegas)
 
@@ -16,7 +17,12 @@
 | **2** B | [get_next_line](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3052668)](https://github.com/JaeSeoKim/badge42)
 | **3** B | [ft_printf](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3066239)](https://github.com/JaeSeoKim/badge42)
 | **4** B | [Born2beroot](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3074359)](https://github.com/JaeSeoKim/badge42)
-| **5** a | [Push Swap](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3074359)](https://github.com/JaeSeoKim/badge42)
+| **5** A | [Push Swap](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
+| **5** B | [Pipex](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
+| **5** C | [So Long](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
+| **5** D | [Exam Rank 02](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
+
+
 
 
 
