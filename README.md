@@ -3,7 +3,7 @@
 
 <h1 align="center">42 Cursus progress</h1>
 
-[![avenegas's 42 stats](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/stats?cursusId=21&coalitionId=64)](https://github.com/AlexisVennegas)
+[![avenegas's 42 stats](https://badge.mediaplus.ma/greenbinary/avenegas?42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <h2>Current project</h2>
 
