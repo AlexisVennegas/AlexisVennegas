@@ -2,9 +2,9 @@
 <h3 align="center">A passionate for Full Stack developer | Data engineer || Student at  <a href="https://www.42madrid.com/" align="center">42Madrid</a> </h3>
 
 <h1 align="center">42 Cursus progress</h1>
-
+<p align="center">
 [![avenegas's 42 stats](https://badge.mediaplus.ma/greenbinary/avenegas?42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+</p>
 <h2>Current project</h2>
 
 | Level | Project name | Mark |
