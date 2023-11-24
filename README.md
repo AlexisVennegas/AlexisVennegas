@@ -9,14 +9,14 @@
 | Level | Project name | Mark |
 |:-----:|:-------------|:----:|
 | **0**  | [Piscine](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/piscine) |  <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
-| **1** A | [Libft](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 Libft Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3017676)](https://github.com/JaeSeoKim/badge42)
-| **2** B | [get_next_line](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3052668)](https://github.com/JaeSeoKim/badge42)
-| **3** B | [ft_printf](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3066239)](https://github.com/JaeSeoKim/badge42)
-| **4** B | [Born2beroot](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | [![avenegas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3074359)](https://github.com/JaeSeoKim/badge42)
-| **5** A | [Push Swap](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
-| **5** B | [Pipex](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
-| **5** C | [So Long](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
-| **5** D | [Exam Rank 02](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |[![avenegas's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpu75wh007307lfao8al8hp/project/3094177)](https://github.com/JaeSeoKim/badge42)
+| **1** A | [Libft](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+| **2** B | [get_next_line](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+| **3** B | [ft_printf](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+| **4** B | [Born2beroot](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) | <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+| **5** A | [Push Swap](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |
+| **5** B | [Pipex](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |
+| **5** C | [So Long](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |
+| **5** D | [Exam Rank 02](https://github.com/AlexisVennegas/42Cursus-Progress/tree/main/Libft) |
 
   
 <h1 align="center"> About </h1>
