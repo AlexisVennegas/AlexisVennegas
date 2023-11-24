@@ -3,8 +3,7 @@
 
 <h1 align="center">42 Cursus progress</h1>
 <p align="center">
-[![avenegas's 42 stats](https://badge.mediaplus.ma/greenbinary/avenegas?42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</p>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/avenegas?42Network=off&UM6P=off" alt="avenegas's 42 stats" /></a>
 <h2>Current project</h2>
 
 | Level | Project name | Mark |
