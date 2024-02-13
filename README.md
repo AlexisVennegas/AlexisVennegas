@@ -28,6 +28,26 @@
 | 14 | CPP Modules | <a href="https://github.com/madebypixel02/CPP-Modules"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark." src="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"></picture></a><br/><a href="https://gitlab.com/madebypixel02/CPP-Modules"><img src="https://user-images.githubusercontent.com/40824677/205691219-5698063c-44bf-453a-b4df-365654641979.png"/></a> | *Lots of basic stuff* | C++, Makefile | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Modules) | [``6/9``](https://gitlab.com/madebypixel02/CPP-Modules) |
 | 15 | ft_irc | <a href="https://github.com/madebypixel02/ft_irc"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark." src="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"></picture></a><br/><a href="https://gitlab.com/madebypixel02/ft_irc"><img src="https://user-images.githubusercontent.com/40824677/205691219-5698063c-44bf-453a-b4df-365654641979.png"/></a>  | *Intenet Relay Chat* | C, C++, Makefile, irc | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/ft_irc) | - |
 | 16 | NetPractice | <a href="https://github.com/madebypixel02/NetPractice"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark." src="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"></picture></a><br/><a href="https://gitlab.com/madebypixel02/NetPractice"><img src="https://user-images.githubusercontent.com/40824677/205691219-5698063c-44bf-453a-b4df-365654641979.png"/></a> | *Fred, there is an unplugged Ethernet cable...* | Networking | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/NetPractice) |
+
+**Proyectos IA y WEB**
+
+1. **RECONOCIMIENTO FACIAL POR COMPUTER VISION**
+   - Aplicación para la detección y el reconocimiento de rostros, permitiendo el acceso seguro.
+   - Tecnologías: Python, Tkinter, MongoDB, modelo preentrenado, OpenCV y face-recognition.
+   - [Link al video](https://www.youtube.com/watch?v=fSl03xKaVvc&ab_channel=AlexisVenegas)
+
+2. **NLP - DETECCIÓN DE LOS MENSAJES DE ODIO**
+   - Solución para detectar automáticamente comentarios tóxicos en videos de YouTube.
+   - Tecnologías: DL con TensorFlow, Keras, Streamlit, Spacy, Regex.
+   - [Link al video](https://www.youtube.com/watch?v=jmb8q0X2JTc&ab_channel=AlexisVenegas)
+
+3. **Foro Afroobook**
+   - Foro red social con sistema de login/registro y almacenamiento seguro en base de datos SQL.
+   - Interfaz intuitiva para visualización de hilos.
+   - Tecnologías: PHP, HTML, CSS3 y SQL.
+   - [Link al video](https://www.youtube.com/watch?v=GNE7Ao_JzwQ&ab_channel=AlexisVenegas)
+
+
  
 <div align="center">
   <a href="https://www.42network.org">
