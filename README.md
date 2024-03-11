@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis Venegas</h1>
-<h3 align="center">A passionate for Full Stack developer | Data engineer || Student at  <a href="https://www.42madrid.com/" align="center">42Madrid</a> </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+me+llamo+Alexis;Soy+un+desarrollador+Web+full+stack+;Tambien+soy+ingeniero+de+datos+;Nataci%C3%B3n+y+juegos+son+dos+de+mis+pasiones)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+passionate+for+Full+Stack+developer;Data+engineer+;Student+at+42Madrid;Mexicano+que+le+gusta+el+picante+%F0%9F%8C%B6%EF%B8%8F)](https://git.io/typing-svg)
 
 <h1 align="center">42 Cursus progress</h1>
 <p align="center">
