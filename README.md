@@ -10,7 +10,9 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/avenegas?42Network=off&UM6P=off" alt="avenegas's 42 stats" /></a>
 <h1 align="center">Current project</h1>
 
-<img src="https://www.codewars.com/users/canelita/badges/large" />
+<div align="center">
+  <img src="https://www.codewars.com/users/canelita/badges/large" />
+</div>
 
 ## Project List
 
