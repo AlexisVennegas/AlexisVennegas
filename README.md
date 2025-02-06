@@ -30,18 +30,7 @@
    - [Link al video](https://www.youtube.com/watch?v=GNE7Ao_JzwQ&ab_channel=AlexisVenegas)
 
 
- 
-<div align="center">
-  <a href="https://www.42network.org">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/150541520-93b9bbfe-cb72-4bd0-80ae-a6f5637d3a77.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/191278687-a798617c-09ab-4ce4-9384-7a826357b7cf.png">
-    <img alt="42 logo in light and dark mode." src="https://user-images.githubusercontent.com/40824677/150541520-93b9bbfe-cb72-4bd0-80ae-a6f5637d3a77.png">
-    </picture>
-  </a>
-</div>
 
-<h1 align="center"> About </h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
