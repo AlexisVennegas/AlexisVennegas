@@ -13,11 +13,7 @@
 | **Confección y Publicación de Páginas Web** | ✅ Completado | Curso donde aprendí sobre diseño web, HTML, CSS y frameworks para la creación de sitios web interactivos.                                                                |
 | **Programación Orientada a Objetos**       | 🛠️ En Progreso | Actualmente en proceso de profundizar mis conocimientos sobre la programación orientada a objetos y su aplicación práctica en proyectos reales.                          |
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexisvennegas" alt="alexisvennegas" />
-  </a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
