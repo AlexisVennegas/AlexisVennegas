@@ -5,14 +5,13 @@
 
 ## 📚 Cursos Realizados
 
-| **Curso**                                  | **Estado**  | **Descripción**                                                                                                                                                          |
-|--------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Bootcamp LaRueca Full Stack**            | ✅ Completado | Un bootcamp completo que cubre tecnologías fundamentales para el desarrollo full stack. ¡Una experiencia increíble que me introdujo al mundo del desarrollo web!          |
-| **F5 - Inteligencia Artificial**           | ✅ Completado | Curso intensivo enfocado en IA, cubriendo desde los fundamentos hasta la creación de modelos predictivos y algoritmos.                                                   |
-| **42Madrid Telefónica**                    | ✅ Completado | Formación en programación de alto nivel en 42Madrid, con un enfoque práctico basado en proyectos colaborativos y aprendizaje autónomo.                                  |
-| **Confección y Publicación de Páginas Web** | ✅ Completado | Curso donde aprendí sobre diseño web, HTML, CSS y frameworks para la creación de sitios web interactivos.                                                                |
-| **Programación Orientada a Objetos**       | 🛠️ En Progreso | Actualmente en proceso de profundizar mis conocimientos sobre la programación orientada a objetos y su aplicación práctica en proyectos reales.                          |
-
+| **Curso**                                  | **Estado**  | **Descripción**                                                                                                                                                          | **Horas** |
+|--------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| **Bootcamp LaRueca Full Stack**            | ✅ Completado | Un bootcamp completo que cubre tecnologías fundamentales para el desarrollo full stack. ¡Una experiencia increíble que me introdujo al mundo del desarrollo web!          | 1000      |
+| **F5 - Inteligencia Artificial**           | ✅ Completado | Curso intensivo enfocado en IA, cubriendo desde los fundamentos hasta la creación de modelos predictivos y algoritmos.                                                   | 1250      |
+| **42Madrid Telefónica**                    | ✅ Completado | Formación en programación de alto nivel en 42Madrid, con un enfoque práctico basado en proyectos colaborativos y aprendizaje autónomo.                                  | 1200      |
+| **Confección y Publicación de Páginas Web** | ✅ Completado | Curso donde aprendí sobre diseño web, HTML, CSS y frameworks para la creación de sitios web interactivos.                                                                | 500       |
+| **Programación Orientada a Objetos**       | 🛠️ En Progreso | Actualmente en proceso de profundizar mis conocimientos sobre la programación orientada a objetos y su aplicación práctica en proyectos reales.                          | 700       |
 
 
 <h3 align="left">Connect with me:</h3>
