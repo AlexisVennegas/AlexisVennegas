@@ -3,26 +3,15 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=948&center=true&vCenter=true&random=false&width=444&lines=A+passionate+for+Full+Stack+developer;Data+engineer+;Student+at+42Madrid;Mexicano+que+le+gusta+el+picante+%F0%9F%8C%B6%EF%B8%8F)](https://git.io/typing-svg)
 </div>
 
-<div align="center">
-  <img src="https://www.codewars.com/users/canelita/badges/large" />
-</div>
-
 ## 📚 Cursos Realizados
 
-### 1. **Bootcamp LaRueca Full Stack** ✅
-   Un bootcamp completo que cubre tecnologías fundamentales para el desarrollo full stack. ¡Una experiencia increíble que me introdujo al mundo del desarrollo web!
-
-### 2. **F5 - Inteligencia Artificial** ✅
-   Curso intensivo enfocado en IA, cubriendo desde los fundamentos hasta la creación de modelos predictivos y algoritmos.
-
-### 3. **42Madrid Telefónica** ✅
-   Formación en programación de alto nivel en 42Madrid, con un enfoque práctico basado en proyectos colaborativos y aprendizaje autónomo.
-
-### 4. **Confección y Publicación de Páginas Web** ✅
-   Curso donde aprendí sobre diseño web, HTML, CSS y frameworks para la creación de sitios web interactivos.
-
-### 5. **Programación Orientada a Objetos** 🛠️ (En Progreso)
-   Actualmente en proceso de profundizar mis conocimientos sobre la programación orientada a objetos y su aplicación práctica en proyectos reales.
+| **Curso**                                  | **Estado**  | **Descripción**                                                                                                                                                          |
+|--------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bootcamp LaRueca Full Stack**            | ✅ Completado | Un bootcamp completo que cubre tecnologías fundamentales para el desarrollo full stack. ¡Una experiencia increíble que me introdujo al mundo del desarrollo web!          |
+| **F5 - Inteligencia Artificial**           | ✅ Completado | Curso intensivo enfocado en IA, cubriendo desde los fundamentos hasta la creación de modelos predictivos y algoritmos.                                                   |
+| **42Madrid Telefónica**                    | ✅ Completado | Formación en programación de alto nivel en 42Madrid, con un enfoque práctico basado en proyectos colaborativos y aprendizaje autónomo.                                  |
+| **Confección y Publicación de Páginas Web** | ✅ Completado | Curso donde aprendí sobre diseño web, HTML, CSS y frameworks para la creación de sitios web interactivos.                                                                |
+| **Programación Orientada a Objetos**       | 🛠️ En Progreso | Actualmente en proceso de profundizar mis conocimientos sobre la programación orientada a objetos y su aplicación práctica en proyectos reales.                          |
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
