@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+Full+Stack;Ingeniero+de+Datos;Apasionado+de+la+tecnologia" alt="Typing SVG" /></a>
 </div>
 
-## 📚 Formaciones Realizados
+## 📚 Formaciones Realizadas
 | **Curso**                                  | **Estado**  | **Descripción**                                                                                                                                                          | **Horas** | **Enlace GitHub**                                                                                                       |
 |--------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------|
 | **[Bootcamp LaRueca Full Stack](https://github.com/AlexisVennegas/LaruecaBootcamp)**            | ✅ Completado | Un bootcamp completo que cubre tecnologías fundamentales para el desarrollo full stack. ¡Una experiencia increíble que me introdujo al mundo del desarrollo web!          | 1000      | [GitHub](https://github.com/AlexisVennegas/LaruecaBootcamp)                                                              |
